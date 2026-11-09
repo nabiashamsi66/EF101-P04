@@ -1,0 +1,9 @@
+file,test,rows,expected_rows,blank_cells,elapsed_last_s,gap_s_min,gap_s_max,timestamps_increasing,cpu_out_of_0_100,disk_active_over_100,negative_values
+idle_20261015_135254.csv,idle,150,150,0,304,2.0,3.0,True,0,0,0
+cpu_20261018_113237.csv,cpu,330,330,0,717,2.0,4.0,True,0,10,0
+cooldown_20261018_114614.csv,cooldown,150,150,0,304,2.0,3.0,True,0,0,0
+ram_20261015_142951.csv,ram,150,150,0,304,2.0,3.0,True,0,0,0
+storage_20261015_145445.csv,storage,150,150,0,305,2.0,3.0,True,0,5,0
+mixed_20261015_144438.csv,mixed,150,150,0,303,2.0,3.0,True,0,1,0
+hwinfo_session1_15oct.csv,hwinfo,2146,,0,,,,True,0,,
+hwinfo_session2_18oct_cpu_rerun.csv,hwinfo,646,,0,,,,True,0,,

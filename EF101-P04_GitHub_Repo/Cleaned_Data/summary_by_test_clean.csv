@@ -1,0 +1,7 @@
+test,window,rows,cpu_avg_pct,cpu_max_pct,ram_avail_min_mb,ram_avail_avg_mb,committed_max_pct,pages_avg,pages_max,pagefile_max_pct,disk_write_avg_mb_s,disk_write_max_mb_s,disk_read_avg_mb_s,disk_active_avg_pct,disk_active_max_pct,disk_queue_max
+idle,baseline,150,6.06,93.7,3059,3256.47,57.7,30.0,1431.3,7.5,0.26,9.17,0.13,1.11,13.5,0.13
+cpu,load,264,97.59,100.0,3254,3350.45,57.7,73.88,7260.5,17.3,0.4,29.22,0.16,13.6,1035.8,10.36
+ram,load,133,11.23,37.6,1104,3047.4,85.8,94.71,4175.5,13.4,0.65,16.3,0.04,1.21,17.5,0.18
+storage,load,118,18.42,56.5,1829,2064.41,78.1,22.99,804.4,25.0,256.71,442.61,4.22,46.29,180.5,1.81
+mixed,load,150,17.46,41.1,1528,2131.56,82.5,331.95,13621.6,23.9,10.41,291.15,1.08,3.91,126.3,1.26
+cooldown,cooldown,150,3.94,14.0,3599,3661.21,53.2,30.17,4305.8,19.2,0.22,16.86,0.0,0.5,2.9,0.03

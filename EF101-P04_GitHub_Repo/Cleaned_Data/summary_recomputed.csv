@@ -1,0 +1,7 @@
+test,load_rows,cpu_avg_pct,ram_free_min_mb,committed_max_pct,pages_per_sec_max,disk_write_avg_mb_s,disk_active_avg_pct,disk_queue_max
+idle,150,6.06,3059,57.7,1431.3,0.26,1.11,0.13
+cpu,264,97.59,3254,57.7,7260.5,0.4,13.6,10.36
+cooldown,150,3.94,3599,53.2,4305.8,0.22,0.5,0.03
+ram,133,11.23,1104,85.8,4175.5,0.65,1.21,0.18
+storage,118,18.42,1829,78.1,804.4,256.71,46.29,1.81
+mixed,150,17.46,1528,82.5,13621.6,10.41,3.91,1.26

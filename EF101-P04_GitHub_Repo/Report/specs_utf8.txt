@@ -1,0 +1,27 @@
+Model: HP HP EliteBook 850 G5
+PCSystemType: 2 (2 = laptop, 1 = desktop)
+Battery present: True
+RAM GB: 7.8
+OS: Microsoft Windows 10 Pro 10.0.19045
+
+Name                                     NumberOfCores NumberOfLogicalProcessors
+----                                     ------------- -------------------------
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz             4                         8
+
+
+
+
+Name                     
+----                     
+Intel(R) UHD Graphics 620
+
+
+
+
+FriendlyName               MediaType         Size
+------------               ---------         ----
+SAMSUNG MZVLB256HAHQ-000H1 SSD       256060514304
+
+
+
+C: free GB: 28.4
